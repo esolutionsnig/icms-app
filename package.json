@@ -1,0 +1,29 @@
+{
+  "name": "icms-app",
+  "version": "1.0.0",
+  "description": "ICMS Utility App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esolutionsnig/icms-app.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "icms"
+  ],
+  "author": "Ernest Ibeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esolutionsnig/icms-app/issues"
+  },
+  "homepage": "https://github.com/esolutionsnig/icms-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {}
+}
